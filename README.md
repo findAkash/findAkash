@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/findAkash/findAkash/blob/main/HaD1.gif" width="450" height="450" />
 
-## I'm a Student, Son, Developer,  Friend!!
+## I'm an IT Student!!
 
 - 🔭 I am currently studing BSc(Hons) in Computing 
 in Softwarica College of IT & E-commerce(Coventry University)!
