@@ -6,8 +6,7 @@
 
 - 🔭 I am currently working as a Project Manager at Trimax IT Company & studing BSc(Hons) in Computing 
 in Softwarica College of IT & E-commerce(Coventry University)!
-- 🌱 I’m currently learning Data science and Machine Learning
-- 👯 I’m looking for intership and jobs
+- 🌱 I’m currently working on my thesis
 - - 💬 Ask me about ... Anything
 - 🥅 2021 Goals: To enhance my skills
 - ⚡ Fun fact: I'm handsome  
