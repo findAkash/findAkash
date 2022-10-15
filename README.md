@@ -4,18 +4,28 @@
 
 ## I'm an IT Student!!
 
-- 🔭 I am currently working as a Project Manager at Trimax IT Company 
+- 🔭 I am currently working as a Python Developer
 - Completed BSc(Hons) in Computing from Coventry University!
 - 🌱 I’m currently working on my skills
 - - 💬 Ask me about ... Anything
 - 🥅 2022 Goals: To enhance my skills
 - ⚡ Fun fact: I'm handsome  
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" />](https://www.linkedin.com/in/akash-karmacharya/)
+
+
+### My College Projects(Click to View)
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://ih1.redbubble.net/image.1577981543.2739/st,small,507x507-pad,600x600,f8f8f8.jpg" />](https://www.youtube.com/watch?v=wpPhYafFitQ&list=PLYJsJadAcEnrhAvx6cC-FIxMSAK3IZ5e3)
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfMwidAgO-qdhSKzIJd33fTDxsIwkzulpArUlfJ6or6g&s" />](https://www.youtube.com/watch?v=3sKv8neUHNU&list=PLYJsJadAcEnqwhuvWwqnIbVDF1jKVVDhk)
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://image.shutterstock.com/image-vector/agile-icon-methodology-vector-development-260nw-1850837746.jpg" />](https://www.youtube.com/watch?v=pcBlXA4rSck&list=LLniCeBwex4BEOfkKWrU_BQA)
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.maptree.in//uploads/courses/f9c960c7f67418e766c2fb8c4493cfdc.png" />](https://youtu.be/MKdm-15n4s8)
+
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.vectorstock.com/i/1000x1000/65/90/cloud-api-3d-sign-technology-vector-17806590.webp" />](https://youtu.be/D6WMR9LLhOw)
+
 
