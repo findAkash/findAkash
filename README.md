@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working as a Python Developer
 - Completed BSc(Hons) in Computing from Coventry University!
-- 🌱 I’m currently working on my skills
+- 🌱 Learning DevOps
 - - 💬 Ask me about ... Anything
 - 🥅 2022 Goals: To enhance my skills
 - ⚡ Fun fact: I'm handsome  
