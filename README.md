@@ -4,11 +4,11 @@
 
 ## I'm an IT Student!!
 
-- 🔭 I am currently working as a Project Manager at Trimax IT Company & studing BSc(Hons) in Computing 
-in Softwarica College of IT & E-commerce(Coventry University)!
-- 🌱 I’m currently working on my thesis
+- 🔭 I am currently working as a Project Manager at Trimax IT Company 
+- Completed BSc(Hons) in Computing from Coventry University!
+- 🌱 I’m currently working on my skills
 - - 💬 Ask me about ... Anything
-- 🥅 2021 Goals: To enhance my skills
+- 🥅 2022 Goals: To enhance my skills
 - ⚡ Fun fact: I'm handsome  
 
 ### Spotify Playing 🎧
@@ -17,4 +17,4 @@ in Softwarica College of IT & E-commerce(Coventry University)!
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/akash-karmacharya/" />][linkedin]
