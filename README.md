@@ -17,4 +17,5 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/akash-karmacharya/" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://www.linkedin.com/in/akash-karmacharya/" />](https://www.linkedin.com/in/akash-karmacharya/)
+
