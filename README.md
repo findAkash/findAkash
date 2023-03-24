@@ -8,7 +8,7 @@
 - Completed BSc(Hons) in Computing from Coventry University!
 - 🌱 Learning DevOps
 - - 💬 Ask me about ... Anything
-- 🥅 2022 Goals: To enhance my skills
+- 🥅 2023 Goals: Enhance skill
 - ⚡ Fun fact: I'm handsome  
 
 
