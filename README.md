@@ -4,8 +4,8 @@
 
 ## I'm an IT Student!!
 
-- 🔭 I am currently working as a Python Developer
-- Pursuing Master in Computer Science in EPITA, Paris-France!
+- 🔭 I am currently working as a Software Developer
+- Currently enrolled in the Master's in Computer Science program at EPITA in Paris, France!
 - 🌱 Learning DevOps
 - - 💬 Ask me about ... Anything
 - 🥅 2024 Goals: Enhance skill by completing Master degree.
