@@ -5,10 +5,10 @@
 ## I'm an IT Student!!
 
 - 🔭 I am currently working as a Python Developer
-- Completed BSc(Hons) in Computing from Coventry University!
+- Pursuing Master in Computer Science in EPITA, Paris-France!
 - 🌱 Learning DevOps
 - - 💬 Ask me about ... Anything
-- 🥅 2023 Goals: Enhance skill
+- 🥅 2024 Goals: Enhance skill by completing Master degree.
 - ⚡ Fun fact: I'm handsome  
 
 
