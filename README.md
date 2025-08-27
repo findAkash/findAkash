@@ -4,8 +4,8 @@
 
 ### I'm an IT Professional and Software Developer
 
+- 🌟 Backend Engineer in Core Banking Team at [Qonto](https://qonto.com/fr).
 - 🎓 Completed my study period **Master's in Computer Science** at **EPITA, Paris, France**
-- 🌟 Doing my end-of-study internship as a Backend Engineer at [Qonto](https://qonto.com/fr).
 - 🌱 Enhancing my skills in **Backend Engineering with Go lang**
 - 🥅 **2024 Goals**: Secure a challenging internship, refine my technical skills, and contribute to impactful projects
 - ⚡ I’m passionate about cutting-edge technology and love exploring new tools and frameworks! 💻🚀
